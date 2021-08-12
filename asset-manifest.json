@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/purwar-art-gallery/static/css/main.a617e044.chunk.css",
+    "main.js": "/purwar-art-gallery/static/js/main.eae3a4c5.chunk.js",
+    "main.js.map": "/purwar-art-gallery/static/js/main.eae3a4c5.chunk.js.map",
+    "runtime-main.js": "/purwar-art-gallery/static/js/runtime-main.acd08fca.js",
+    "runtime-main.js.map": "/purwar-art-gallery/static/js/runtime-main.acd08fca.js.map",
+    "static/js/2.2a609b1b.chunk.js": "/purwar-art-gallery/static/js/2.2a609b1b.chunk.js",
+    "static/js/2.2a609b1b.chunk.js.map": "/purwar-art-gallery/static/js/2.2a609b1b.chunk.js.map",
+    "static/js/3.b458d975.chunk.js": "/purwar-art-gallery/static/js/3.b458d975.chunk.js",
+    "static/js/3.b458d975.chunk.js.map": "/purwar-art-gallery/static/js/3.b458d975.chunk.js.map",
+    "index.html": "/purwar-art-gallery/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/purwar-art-gallery/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2a609b1b.chunk.js.LICENSE.txt": "/purwar-art-gallery/static/js/2.2a609b1b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/purwar-art-gallery/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acd08fca.js",
+    "static/js/2.2a609b1b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.eae3a4c5.chunk.js"
+  ]
+}
