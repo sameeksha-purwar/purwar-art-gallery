@@ -1,1 +1,0 @@
-# purwar-art-gallery
